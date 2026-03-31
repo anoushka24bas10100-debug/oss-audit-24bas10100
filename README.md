@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Pranjali Sharma
-Roll Number: 24BAI10156
+Name: Anoushka Pandey
+Roll Number: 24BAS10100
 
 ## Chosen Software
 Git
